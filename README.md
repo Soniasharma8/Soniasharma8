@@ -6,9 +6,9 @@ Email Me 👉 ✉️ **soniashar2021@gmail.com**😊😊
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soniasharma8&limit=5&theme=dark&combine_all_yearly_contributions=true)
