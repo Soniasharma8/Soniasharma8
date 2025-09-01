@@ -4,11 +4,11 @@ Email Me 👉 ✉️ **soniashar2021@gmail.com**😊😊
 
 **🔭 I'm currently working on:** Building robust web applications using the MERN stack.<br><br>**🤝 I'm looking to collaborate on:** Open-source MERN projects, interesting web development challenges, or anything that helps me grow as a developer.<br><br>**💡 I'm looking for help with:** Advanced deployment strategies and optimizing application performance.<br><br>**🌱 I'm currently learning:** Deepening my understanding of database indexing and query optimization.<br><br>**💬 Ask me about:** MERN stack development, my training experience at Hoping Minds, or anything related to web development!<br><br>**⚡ Fun fact:** I believe clean code is a form of art!
 
-<!-- Snake Game Repo View -->
+Snake Game Repo View 
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
+</div> 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soniasharma8&limit=5&theme=dark&combine_all_yearly_contributions=true)
